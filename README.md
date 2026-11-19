@@ -12,4 +12,6 @@ That caused me to switch to a different subject entirely. I chose to look at Wor
 I have explored and played with the data set some, I created training/test sets, and performed some calculations to determine the performance of my model as well.
 
 # Milestone 2
-I worked and explored with classification models in place of linear regression models and what performances looked like. I implemented a decision tree classifier, evaluated the results and then attempted to find an improvement by using a Support Vector Machine classifier. Unfortunately, the SVM classifier performed worse than the decision tree model. I have a theory that if the categories were smaller but there were more of them, if the SVM classifier would show to be a more accurate predictor.
+I worked and explored with classification models in place of linear regression models and what performances looked like. I implemented a decision tree classifier, evaluated the results and then attempted to find an improvement by using a Support Vector Machine classifier. Unfortunately, the SVM classifier performed worse than the decision tree model. I have a theory that if the categories were smaller but there were more of them, the SVM classifier would show to be a more accurate predictor.
+
+# Milestone 3
